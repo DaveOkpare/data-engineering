@@ -1,4 +1,5 @@
 ```sql
+
 -- Question 3. Count records
 
 -- How many taxi trips were there on January 15?
